@@ -166,7 +166,7 @@ my-academic-guide/
 
 ## 👨‍💻 Developer
 
-**Arjun T.**
+**Deepak D E.**
 
 Computer Science and Engineering
 
